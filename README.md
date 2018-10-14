@@ -1,4 +1,3 @@
-![Alt text](topcontributor.png?raw=true "Top and Least expenditures")# indiaexpenditure
 Analysis of india's expenditure report from finance ministry.
 Expenditures are calculated as percentage of total expenditures and then analysed.
 
